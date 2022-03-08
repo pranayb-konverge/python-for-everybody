@@ -7,3 +7,4 @@ alt="Python for everyone - full course" width="240" height="180" border="10" /><
 
 ## Sqlite3 installation on ubuntu
 - https://sqlitebrowser.org/dl/
+- use the sqlit3_demo.py to play with db data

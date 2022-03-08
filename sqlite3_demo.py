@@ -27,3 +27,13 @@ for col in data.description:
 # print table values
 for row in data.fetchall():
     print(row)
+
+
+a = [1,6,2,7,3,8,4,9,5]
+print(a)
+
+a.sort()
+print(a)
+
+a.reverse()
+print(a)
